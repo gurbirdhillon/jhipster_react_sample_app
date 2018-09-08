@@ -1,0 +1,37 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "ca.ntq.samples",
+      "nativeLanguage": "en"
+    },
+    "jhipsterVersion": "5.3.1",
+    "applicationType": "monolith",
+    "baseName": "jhipster_react_sample_app",
+    "packageName": "ca.ntq.samples",
+    "packageFolder": "ca/ntq/samples",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "ZTBhNWI3ODhiMzY5ODVhNWVkMTQ5YzFkODA3ZjdiMjIxNDk2MGM3N2M1ODFjMjBiYTJlZWQ3MDU1MDc2ZWM1ZmRiNDU1OWM3NTY1ZGY3ODg3MGVlODgyNDVkNzliMjljNzYyNjQwMjU4MmUyMTEzYWQ3ZmM1NzU1ZDBkZjYxOWI=",
+    "clientFramework": "react",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ]
+  }
+}
